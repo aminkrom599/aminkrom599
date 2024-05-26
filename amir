@@ -65,7 +65,7 @@ tsbuildinfo
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
-# Next.js build output
+ Next.js build output
 .next
 
 .nuxt
