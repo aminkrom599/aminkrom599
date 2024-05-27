@@ -44,7 +44,7 @@ tsbuildinfo
 # Optional eslint cache
 .eslintcache
 
-# Microbundle cache
+# Microbundle 
 .rpt2
 .rts2_cache_cjs/
 .rts2_cache_es/
