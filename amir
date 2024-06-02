@@ -62,7 +62,7 @@ tsbuildinfo
 # dotenv environment variables file
 .env.test
 
-# parcel-bundler cache (https://parceljs.org/)
+ parcel-bundler cache (https://parceljs.org/)
 .cache
 
  Next.js build output
