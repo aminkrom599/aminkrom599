@@ -25,7 +25,7 @@ coverage
 bower_components
 
 .lock-wscript
-(https://nodejs.org/api/addons.html)
+(://nodejs.org/api/addons.html)
 build/Release
 
  Dependency directories
