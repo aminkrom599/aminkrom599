@@ -11,7 +11,7 @@ lerna-.log*
 pid.lock
 
 # Directory for  libs  by jscoverage/JSCover
-lib-
+-
 
 coverage
 *.lcov
