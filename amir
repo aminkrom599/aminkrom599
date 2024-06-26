@@ -8,7 +8,7 @@ lerna-.log*
 
 
 
-pid.lock
+.lock
 
 # Directory for  libs  by jscoverage/JSCover
 -
