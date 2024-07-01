@@ -10,7 +10,7 @@ lerna-.log*
 
 .
 
-#  for    by jscoverage/JSCover
+  for    by jscoverage/JSCover
 -
 
 coverage
