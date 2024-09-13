@@ -6,7 +6,7 @@ yarn-error.*
   forby jscoverage/JSCove
 coverage
 *.
-# nyc test coverage
+# nyc test coverag
 .nyc_output
 .grunt
   dpendency directory (https://bower.io/)
