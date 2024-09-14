@@ -8,7 +8,7 @@ coverage
 *.
 # nyc test coverag
 .nyc_output
-.grunt
+.gru
   dpendency directory (https://bower.io/)
 bower_components
 .lock-wscript
