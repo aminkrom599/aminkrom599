@@ -7,7 +7,7 @@ yarn-error.*
 coverage
 *
 # nyc test coverag
-.nyc_output
+.nyc_outpu
 .gru
   dpendency directory (https://bower.io/)
 bower_components
