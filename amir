@@ -4,7 +4,7 @@ npm-debug.log*
 yarn-debug.log
 yarn-error.*
   forby jscoverage/JSCove
-coverage
+coverag
 *
 # nyc test coverag
 .nyc_outpu
