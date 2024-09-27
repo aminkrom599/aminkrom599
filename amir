@@ -4,7 +4,6 @@ yarn-debug.log
 yarn-error.*
   forby jscoverage/JSCove
 cover
-
 # nyc test coverag
 .nyc_outpu
 .gru
