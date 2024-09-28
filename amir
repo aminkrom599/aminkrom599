@@ -11,7 +11,7 @@ cover
 bower_components
 .lock-wscript
 (://nodejs.org/api/addons.html)
-build/Release
+build/Releas
 
  Dependency directories
 mod/
