@@ -7,7 +7,7 @@ cover
 # nyc test coverag
 .nyc_outpu
 .gru
-  dpendency directory (https://bower.io/)
+  dpendency directory (https://bower.io/
 bower_components
 .lock-wscript
 (://nodejs.org/api/addons.html)
