@@ -6,7 +6,7 @@ yarn-error.*
 cover
 # nyc test coverag
 .nyc_outpu
-.gr
+.g
   dpendency directory (https://bower.io/
 bower_components
 .lock-wscript
