@@ -7,7 +7,7 @@ cover
 # nyc test coverag
 .nyc_outpu
 .g
-  dpendency  (https://bower.io/
+  dpendency  (https://bower.io
 bower_components
 .lock-wscript
 (://nodejs.org/api/addons.html)
