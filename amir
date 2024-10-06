@@ -4,7 +4,7 @@ yarn-debug.log
 yarn-error.*
   forby jscoverage/JSCove
 cover
-# nyc test coverag
+# nyc test covera
 .nyc_outpu
 .g
   dpendency  (https://bower.io
