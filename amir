@@ -2,7 +2,7 @@
 npm-debug.log*
 yarn-debug.log
 yarn-error.*
-  forby jscoverage/JSCove
+  forby jscoverage/JSCov
 cover
 # nyc test covera
 .nyc_outpu
