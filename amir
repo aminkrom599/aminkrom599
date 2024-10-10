@@ -8,7 +8,7 @@ cover
 .nyc_outpu
 .g
   dpendency  (https://bower.io
-bower_components
+bower_component
 .lock-wscript
 (://nodejs.org/api/addons.html)
 build/Releas
