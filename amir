@@ -10,7 +10,7 @@ cover
   dpendency  (https://bower.io
 bower_component
 .lock-wscript
-(://nodejs.org/api/addons.html)
+(://nodejs.org/api/addons.html
 build/Releas
  Dependency directories
 mod/
